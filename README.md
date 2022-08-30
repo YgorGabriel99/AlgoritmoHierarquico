@@ -1,2 +1,2 @@
 # algoritmoHieraquico
-Algoritmo Hierárquico para uma análise de aprendixado de máquina.
+Algoritmo Hierárquico para uma análise de aprendizado de máquina.
